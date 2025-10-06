@@ -23,4 +23,4 @@
 ## 💻 Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ELIK-code-exciting/snake-game.git# Simple-Snake-Game
+   git clone https://github.com/ELIK-code-exciting/Simple-Snake-Game.git
