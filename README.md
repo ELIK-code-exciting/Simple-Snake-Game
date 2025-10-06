@@ -3,7 +3,6 @@
 > A clean, responsive implementation of the classic Snake game using only **HTML, CSS, and JavaScript**.  
 > Perfect as a portfolio project to demonstrate core web development skills.
 
-![Snake Game Preview](https://via.placeholder.com/420x420/222/4CAF50?text=🐍+🍎)
 
 ## 🎮 How to Play
 - Use **arrow keys** to control the snake
