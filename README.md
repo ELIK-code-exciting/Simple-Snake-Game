@@ -9,7 +9,7 @@
 - Use **arrow keys** to control the snake
 - Eat 🍎 apples to grow and increase your score
 - Avoid colliding with yourself!
-- Press **Space** to pause (if implemented)
+- Press **Space** to pause
 
 ## 🌟 Features
 - Persistent high score using `localStorage`
