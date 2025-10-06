@@ -19,9 +19,9 @@
 - Wall-wrap mode (optional)
 
 ## ▶️ Play Online
-👉 [Launch the game](https://your-username.github.io/snake-game/)
+👉 [Launch the game](https://ELIK-code-exciting.github.io/Simple-Snake-Game/)
 
 ## 💻 Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git# Simple-Snake-Game
+   git clone https://github.com/ELIK-code-exciting/snake-game.git# Simple-Snake-Game
