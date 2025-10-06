@@ -27,11 +27,12 @@ body {
 
 #game-board {
   display: grid;
-  grid-template-columns: repeat(20, 20px); /* 20x20 клеток */
+  grid-template-columns: repeat(20, 20px); 
   grid-template-rows: repeat(20, 20px);
   gap: 1px;
   width: 420px;
   height: 420px;
   background: #222;
   border: 2px solid #444;
+
 }
