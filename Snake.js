@@ -143,12 +143,12 @@ function Draww_skins(){
         segment.textContent = '';
     });
 
-    // Рисуем тело (все сегменты, кроме головы)
+   
   for (let i = 1; i < snake.length; i++) {
     const segment = snake[i];
     const index = segment.y * GRID_SIZE + segment.x;
     if (cells[index]) {
-      cells[index].textContent = '🟩'; // светло-зелёный (тело)
+      cells[index].textContent = '🟩'; 
     }
   }
 
@@ -156,7 +156,7 @@ function Draww_skins(){
   const head = snake[0];
   const headIndex = head.y * GRID_SIZE + head.x;
   if (cells[headIndex]) {
-    cells[headIndex].textContent = '🐍'; // тёмно-зелёный (голова)
+    cells[headIndex].textContent = '🐍';
   }
 
     const foodIndex = food.y * GRID_SIZE + food.x;
@@ -184,4 +184,5 @@ function createFood(){
 }
 
 start();
+
 
