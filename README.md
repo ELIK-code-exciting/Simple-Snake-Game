@@ -15,8 +15,7 @@
 - Persistent high score using `localStorage`
 - Apple counter
 - Responsive grid layout
-- Emoji-based visuals (optional)
-- Wall-wrap mode (optional)
+- Emoji-based visuals
 
 ## ▶️ Play Online
 👉 [Launch the game](https://ELIK-code-exciting.github.io/Simple-Snake-Game/)
