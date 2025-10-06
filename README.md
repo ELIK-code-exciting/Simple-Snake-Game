@@ -8,7 +8,7 @@
 ## 🎮 How to Play
 - Use **arrow keys** to control the snake
 - Eat 🍎 apples to grow and increase your score
-- Avoid colliding with walls or yourself!
+- Avoid colliding with yourself!
 - Press **Space** to pause (if implemented)
 
 ## 🌟 Features
